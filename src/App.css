@@ -1,0 +1,15 @@
+.playField{
+    gap: 1px;
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 10px 0; 
+}
+
+.blocks-PlayField{
+    max-width: 1440px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1px;
+}
